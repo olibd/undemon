@@ -1,0 +1,9 @@
+tensorflow==1.0
+scipy
+numpy
+glob3
+joblib
+pillow
+matplotlib
+pandas
+opencv-python
